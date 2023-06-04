@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ..
 -🔭 I’m currently working on betting advisor which will allow u to see percentage of possible win.
 -🌱 I’m currently learning Python, C++, C#
 -📫 How to reach me: mikolajzblewski3@gmail.com
