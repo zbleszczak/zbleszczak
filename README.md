@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on betting advisor which will allow u to see percentage of possible win.
-- 🌱 Trying to understand Python, C++, C#
+- 🌱 Trying to understand Python, Java, C
 - 📫 How to reach me: mikolajzblewski3@gmail.com
 <!--
 **zbleszczak/zbleszczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
