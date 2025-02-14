@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on betting advisor which will allow u to see percentage of possible win.
+- 🔭 I’m currently working on website improvments such as diagrams for polls and better visuals
 - 🌱 Trying to understand Python, Java, C
 - 📫 How to reach me: mikolajzblewski3@gmail.com
+- ⚡ Fun fact: owner of sprawdzkandydata.pl
 <!--
 **zbleszczak/zbleszczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
